@@ -1,4 +1,4 @@
-Hi :wave:, I'm KC, and I'm a student at the University of Manitoba.
+Hi :wave:, I'm KC, and I'm a university student.
 
 [LinkedIn](https://www.linkedin.com/in/kaitlinkcheng/) • [Facebook](https://www.facebook.com/kaitlinkcheng/) • [CodePen](https://codepen.io/Kaiche)
 
