@@ -1,5 +1,6 @@
-🔧 Under construction! 🔧
+Hi :wave:, I'm Kaitlin, and I'm a student at the University of Manitoba.
 
+[LinkedIn](https://www.linkedin.com/in/kaitlinkcheng/) • [Facebook](https://www.facebook.com/kaitlinkcheng/) • [CodePen](https://codepen.io/Kaiche)
 <!---
 - 👋 Hi, I’m @KaitlinKCheng
 - 👀 I’m interested in ...
