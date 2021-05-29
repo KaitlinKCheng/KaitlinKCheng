@@ -1,4 +1,4 @@
-Hi :wave:, I'm KC, and I'm a university student.
+Hi :wave:, I'm KC.
 
 [LinkedIn](https://www.linkedin.com/in/kaitlinkcheng/) • [Facebook](https://www.facebook.com/kaitlinkcheng/) • [CodePen](https://codepen.io/Kaiche)
 
