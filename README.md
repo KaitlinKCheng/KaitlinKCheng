@@ -1,6 +1,6 @@
 Hi :wave:, I'm KC.
 
-[LinkedIn](https://www.linkedin.com/in/kaitlinkcheng/) • [Facebook](https://www.facebook.com/kaitlinkcheng/) • [CodePen](https://codepen.io/Kaiche)
+[LinkedIn](https://www.linkedin.com/in/kaitlinkcheng/) • [CodePen](https://codepen.io/Kaiche)
 
 <!---
 - 👋 Hi, I’m @KaitlinKCheng
