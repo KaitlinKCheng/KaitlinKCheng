@@ -1,4 +1,4 @@
-Hi :wave:.
+Hi! :wave:
 
 [LinkedIn](https://www.linkedin.com/in/kaitlinkcheng/)
 
