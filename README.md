@@ -1,4 +1,4 @@
-Hi :wave:, I'm KC.
+Hi :wave:.
 
 [LinkedIn](https://www.linkedin.com/in/kaitlinkcheng/)
 
